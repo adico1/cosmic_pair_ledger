@@ -1,0 +1,3 @@
+record:keymap,k0:metadata.name,k1:spec.mission,k2:spec.guardian,k3:spec.signatures.0.role,k4:spec.signatures.0.name
+record:ledger,doc:0,k0:Cosmic Pair Ledger,k1:flatten sacred corpora,k2:Adi Ovadia Cohen,k3:Witness,k4:Adi
+record:ledger,doc:1,k0:Field Sample,k1:demonstrate reversible contraction,k2:Adi Ovadia Cohen,k3:Archivist,k4:Adi

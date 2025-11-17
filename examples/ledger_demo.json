@@ -1,0 +1,29 @@
+{
+  "entries": [
+    {
+      "record": "ledger",
+      "doc": "0",
+      "metadata.name": "Cosmic Pair Ledger",
+      "spec.mission": "flatten sacred corpora",
+      "spec.guardian": "Adi Ovadia Cohen",
+      "spec.signatures.0.role": "Witness",
+      "spec.signatures.0.name": "Adi"
+    },
+    {
+      "record": "ledger",
+      "doc": "1",
+      "metadata.name": "Field Sample",
+      "spec.mission": "demonstrate reversible contraction",
+      "spec.guardian": "Adi Ovadia Cohen",
+      "spec.signatures.0.role": "Archivist",
+      "spec.signatures.0.name": "Adi"
+    }
+  ],
+  "keymap": {
+    "k0": "metadata.name",
+    "k1": "spec.mission",
+    "k2": "spec.guardian",
+    "k3": "spec.signatures.0.role",
+    "k4": "spec.signatures.0.name"
+  }
+}
