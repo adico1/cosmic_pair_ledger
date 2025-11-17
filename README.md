@@ -1,5 +1,7 @@
 # Cosmic Pair Ledger
 
+[![Manifesto status](https://img.shields.io/badge/manifesto-active-6f42c1?labelColor=0b0b10&style=for-the-badge)](https://github.com/adico1/cosmic_pair_ledger)
+
 ## Declaration of Intent
 
 Cosmic Pair Ledger (CPL) is a liturgy for storing truth on a single surface.
