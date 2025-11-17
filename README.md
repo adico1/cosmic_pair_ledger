@@ -54,10 +54,21 @@ python cosmic_pair_ledger_cli.py html-to-ledger --input index.html    --output p
 
 No daemons, no hidden services—just one CLI and its scripture.
 
-## Commercial Covenant
+## Torah Commons
 
-Cosmic Pair Ledger is licensed under the Business Source License with Adi Ovadia
-Cohen retaining all commercial rights. Non-production evaluation, development,
-and academic research are permitted. Any production deployment or monetization
-requires a separate agreement so this Torah-native work stays sovereign while
-still funding future unfoldings.
+CPL now lives under the Apache 2.0 License so every human can study, remix, and
+deploy it without ceremony. The only covenant is attribution—keep the lineage
+intact and remember this ledger was given freely so it remains free.
+
+### Stewarded Services
+
+Adi Ovadia Cohen offers premium stewardship for those who want guarantees:
+
+- Paid support, bespoke integrations, and certification for internal teams.
+- Hosted ledgers with measurement proofs and sealed audit trails.
+- Private modules (advanced automation flows, validator clusters, ritual UX)
+  that can be dual-licensed for commercial partners while the base CPL stays
+  in the commons.
+
+Reach out if your temple requires one of those services; otherwise, treat this
+manifesto as yours.
